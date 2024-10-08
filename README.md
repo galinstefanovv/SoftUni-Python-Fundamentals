@@ -11,7 +11,7 @@ This course covers advanced programming concepts that build on the foundational 
 - [x] Problem analysis and decomposition into computer-executable steps
 - [x] Fundamentals of web development
 - [x] Understanding relationships between various IT concepts
-- [x] Basic skills in HTML and CSS
+- [x] Basic skills in HTML & CSS
 - [x] Working with linear data structures
 
 ## 🎓 Certificate
