@@ -4,7 +4,7 @@
 Welcome to my repository for **Programming Fundamentals with Python course at [SoftUni](https://softuni.bg/) - September 2022**! Here, you'll find my solutions to all the tasks and exercises assigned during the course.
 
 ## 📖 About the Course
-This course covers advanced programming concepts that build on the foundational knowledge from Programming Basics. It focuses on working with complex data structures such as lists, dictionaries, objects and classes, as well as understanding core web development technologies like HTML and CSS, and HTTP. Topics like bitwise operations and advanced problem-solving techniques are also included. The course provides a comprehensive overview of essential programming skills and tools, laying the groundwork for future professional development in software engineering.
+This course covers advanced programming concepts that build on the foundational knowledge from Programming Basics. It focuses on working with complex data structures such as lists, dictionaries, objects and classes, as well as understanding core web development technologies like HTML & CSS and HTTP. Topics like bitwise operations and advanced problem-solving techniques are also included. The course provides a comprehensive overview of essential programming skills and tools, laying the groundwork for future professional development in software engineering.
 
 ### Skills Acquired:
 - [x] Handling standard functionality of the programming language
@@ -18,9 +18,9 @@ This course covers advanced programming concepts that build on the foundational 
 Below is the certificate I obtained during the course: 
 
 <a href="https://softuni.bg/certificates/details/148930/591a3964">
-<img src="https://github.com/user-attachments/assets/58e29439-1c33-4591-9c44-536d72a44d3e" width="33%" />
-<img src="https://github.com/user-attachments/assets/92f08c8d-8349-453c-8626-1c451b78418e" width="33%" />
-<img src="https://github.com/user-attachments/assets/1e30ca99-4a66-481b-bdf5-93f096312acb" width="33%" />
+<img src="https://github.com/user-attachments/assets/58e29439-1c33-4591-9c44-536d72a44d3e" width="30%" />
+<img src="https://github.com/user-attachments/assets/92f08c8d-8349-453c-8626-1c451b78418e" width="30%" />
+<img src="https://github.com/user-attachments/assets/1e30ca99-4a66-481b-bdf5-93f096312acb" width="30%" />
 </a>
 
 This certificate showcases my successful completion of the course and my proficiency in **Python Fundamentals**.
@@ -58,4 +58,4 @@ My solutions are organized into folders representing each lesson and type of exe
 - **GitHub**: [View](https://github.com/galinstefanovv)
 
 ## 📚 Navigation
-> [Previous course: Programming Basics with Python - May 2022](https://github.com/galinstefanovv/SoftUni-Python-Basics) | [Next course: Python Advanced - January 2023](https://github.com/galinstefanovv/SoftUni-Python-Advanced)
+> Previous course: [**`Python Basics`**](https://github.com/galinstefanovv/SoftUni-Python-Basics) | Next course: [**`Python Advanced`**](https://github.com/galinstefanovv/SoftUni-Python-Advanced)
